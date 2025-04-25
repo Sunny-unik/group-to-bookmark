@@ -1,0 +1,12 @@
+{
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "ico.png",
+    "default_title": "Save Tab Groups"
+  },
+  "manifest_version": 3,
+  "name": "Tab Group to Bookmark",
+  "version": "1.0.0",
+  "description": "Save Chrome tab groups as bookmark folders",
+  "permissions": ["tabs", "tabGroups", "bookmarks"]
+}
