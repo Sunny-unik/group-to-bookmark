@@ -2,7 +2,7 @@
   "action": {
     "default_popup": "popup.html",
     "default_icon": "ico.png",
-    "default_title": "Save Tab Groups"
+    "default_title": "Tab Group to Bookmark"
   },
   "manifest_version": 3,
   "name": "Tab Group to Bookmark",
